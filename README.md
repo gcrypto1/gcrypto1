@@ -2,7 +2,7 @@
 - 👀 I’m interested in New innovation 
 - 🌱 I’m currently learning programming language 
 - 💞️ I’m looking to collaborate on new project 
-- 📫 How to reach me liznivy@gmail.com
+- 📫 How to reach samjuliet@gmail.com
 
 <!---
 gcrypto1/gcrypto1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
